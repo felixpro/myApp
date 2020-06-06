@@ -1,0 +1,6 @@
+2020-06-06 07:47:08.985 AST [1496] LOG:  starting PostgreSQL 12.3 on x86_64-apple-darwin19.4.0, compiled by Apple clang version 11.0.3 (clang-1103.0.32.59), 64-bit
+2020-06-06 07:47:09.053 AST [1496] LOG:  listening on IPv6 address "::1", port 5432
+2020-06-06 07:47:09.053 AST [1496] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2020-06-06 07:47:09.055 AST [1496] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2020-06-06 07:47:10.682 AST [1498] LOG:  database system was shut down at 2020-06-05 23:48:25 AST
+2020-06-06 07:47:11.196 AST [1496] LOG:  database system is ready to accept connections
